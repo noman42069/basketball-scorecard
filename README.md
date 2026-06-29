@@ -1,4 +1,4 @@
-basketball Scoreboard
+basketball Scoreboard.
 
 A simple basketball scoreboard built with HTML, CSS, and JavaScript.
 
